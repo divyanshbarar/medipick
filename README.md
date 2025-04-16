@@ -32,4 +32,4 @@ I welcome any feedback on the current implementation and would be happy to discu
 
 Thank you for the opportunity to work on this assignment.
 
-Best regards, DIvyansh Bqrar
+Best regards, Divyansh Barar
